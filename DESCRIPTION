@@ -9,6 +9,6 @@ Authors@R:
            email = "shihjyun.yeo@gmail.com")
 Description: This package provides three different levels of Taiwan maps(county, town, village).
               All data is stored in sf type, so you may need to install sf package to manupulate them.
-License: MIT
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
