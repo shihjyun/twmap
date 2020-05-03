@@ -3,7 +3,7 @@
 \docType{data}
 \name{tw_village}
 \alias{tw_village}
-\title{Taiwan village map produced by NLSC(EPSG:3823, TWD97)}
+\title{Taiwan village map produced by NLSC(EPSG:3824, TWD97)}
 \format{
 An object of class \code{sf} (inherits from \code{data.frame}) with 7965 rows and 11 columns.
 }

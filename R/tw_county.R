@@ -1,4 +1,4 @@
-#' Taiwan county map produced by NLSC(EPSG:3823, TWD97)
+#' Taiwan county map produced by NLSC(EPSG:3824, TWD97)
 #'
 #' Last update: 2019-11-21
 #'

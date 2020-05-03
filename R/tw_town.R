@@ -1,4 +1,4 @@
-#' Taiwan town map produced by NLSC(EPSG:3823, TWD97)
+#' Taiwan town map produced by NLSC(EPSG:3824, TWD97)
 #'
 #' Last update: 2020-03-24
 #'

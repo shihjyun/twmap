@@ -3,7 +3,7 @@
 \docType{data}
 \name{tw_county}
 \alias{tw_county}
-\title{Taiwan county map produced by NLSC(EPSG:3823, TWD97)}
+\title{Taiwan county map produced by NLSC(EPSG:3824, TWD97)}
 \format{
 An object of class \code{sf} (inherits from \code{data.frame}) with 22 rows and 5 columns.
 }
