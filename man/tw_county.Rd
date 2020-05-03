@@ -14,6 +14,6 @@ An object of class \code{sf} (inherits from \code{data.frame}) with 22 rows and 
 tw_county
 }
 \description{
-Taiwan county map produced by NLSC(EPSG:3823, TWD97)
+Last update: 2019-11-21
 }
 \keyword{datasets}

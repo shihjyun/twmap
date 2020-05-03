@@ -8,12 +8,12 @@
 An object of class \code{sf} (inherits from \code{data.frame}) with 368 rows and 8 columns.
 }
 \source{
-\url{https://data.gov.tw/dataset/7442}
+\url{https://data.gov.tw/dataset/7441}
 }
 \usage{
 tw_town
 }
 \description{
-Taiwan town map produced by NLSC(EPSG:3823, TWD97)
+Last update: 2020-03-24
 }
 \keyword{datasets}
