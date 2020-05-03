@@ -1,11 +1,14 @@
 Package: twmap
 Type: Package
-Title: What the Package Does (Title Case)
+Title: An R data package contains Taiwan map produced by NLSC.
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Authors@R: 
+    person(given = "Steven",
+           family = "Yeo", 
+           role = c("aut", "cre"),
+           email = "shihjyun.yeo@gmail.com")
+Description: This package provides three different levels of Taiwan maps(county, town, village).
+              All data is stored in sf type, so you may need to install sf package to manupulate them.
+License: MIT
 Encoding: UTF-8
 LazyData: true
